@@ -43,3 +43,25 @@ Practise data cleaning, data profiling, DAX measures, interactive visualizations
 
 ## Note
 The dashboard and remaining measures are still in progress.
+
+## Progress Log — October 15, 2026
+
+### AnimeVerse Analytics — Power BI
+
+**Completed**
+- Created DAX measures for Total Anime, Average Score, and Total Studios.
+- Built three KPI cards to summarize the dataset.
+- Added the AnimeVerse Analytics dashboard title.
+- Created a donut chart for anime distribution by media type.
+- Improved the chart title and discussed counting anime records correctly.
+
+**In Progress**
+- Building a Top 10 highest-rated anime bar chart.
+- Adding a media-type slicer to explore movies, TV series, OVAs, and other formats interactively.
+- Formatting and arranging dashboard visuals.
+
+**Next Steps**
+- Finish and test the media-type slicer.
+- Verify Top 10 filtering and descending score sorting.
+- Improve dashboard styling, layout, and readability.
+- Add genre and studio analysis visuals.
